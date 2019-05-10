@@ -38,7 +38,7 @@
   "homepage": "https://github.com/joytocode/lighthouse-lambda#readme",
   "dependencies": {
     "@serverless-chrome/lambda": "^1.0.0-54",
-    "lighthouse": "^3.0.3"
+    "lighthouse": "^5.0.0"
   },
   "devDependencies": {
     "standard": "^11.0.1"
